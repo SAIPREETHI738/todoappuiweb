@@ -24,10 +24,6 @@ h2{
 .container{
     display: flex;
 }
-input{
-    margin-left: 0px;
-    
-}
 p{
     font-size: 20px;
     color: red;
