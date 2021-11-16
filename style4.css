@@ -41,6 +41,11 @@ h1::after{
     box-shadow: 10px 7px rgba(231, 230, 230, 0.692);      
     font-size: 20px;
 }
+.plus{
+    color: rgb(236, 69, 69);
+    float: right; 
+    margin-top: 90px;
+}
 .container{
     display: flex;
     justify-content: center;
@@ -52,6 +57,9 @@ h1::after{
     margin: auto;
     
 }
+.back{
+    color: rgb(236, 69, 69);
+}
 h2{
     font-size: 30px;
     font-family: sans-serif;
@@ -61,7 +69,7 @@ h2{
      padding-left: 10px;
 }
 input{
-    margin-left: 70px;
+    margin-left: 50px;
     
 }
 p{
@@ -111,6 +119,9 @@ h3{
     width: 260px;
     padding: 20px;
   
+  }
+  .add{
+    text-decoration: none;
   }
   .box3 {
     background-color: rgb(236, 69, 69);;

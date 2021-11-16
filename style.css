@@ -7,6 +7,11 @@ body{
 .icon{
     display: flex;
   }
+.plus{
+    margin-left: 300px; 
+    margin-top: 60px; 
+    color: rgb(236, 69, 69);
+}  
 
 h2{
     font-size: 50px;
@@ -54,7 +59,4 @@ input{
 label{
     font-size: 20px;
 }
-a{
-   margin-left: 800px;
-   font-size: 20px;
-}
+

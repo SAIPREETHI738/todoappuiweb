@@ -2,15 +2,21 @@
   filter: blur(7px);
 }
 
-.icon{
-  display: flex;
-}
+
 body{
     width: 800px;
     height: 100px;
     margin: 100px auto;
     padding: 20px;
     
+}
+.icon{
+  display: flex;
+}
+.plus{
+  margin-left: 300px; 
+  margin-top: 60px; 
+  color: rgb(236, 69, 69);
 }
 h2{
     font-size: 50px;
@@ -89,6 +95,9 @@ h1{
   padding: 20px;
 
 }
+.add{
+  text-decoration: none;
+}
 .box3 {
   background-color: rgb(236, 69, 69);;
   box-shadow: 5px 4px rgba(231, 230, 230, 0.692);
@@ -101,10 +110,4 @@ h1{
   margin-top: 30px;
   width: 80px;
   padding: 10px;
-}
-a{
- 
- margin-left: 85%;
- font-size: 20px;
- 
 }
